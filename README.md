@@ -2,4 +2,9 @@
 ## þetta
 ### er
 #### æði
-Einhver **lýsing** fyrir *eitthvað*, **takk og bless**.
+
+
+![Logo skólans](logo.PNG)
+
+
+Einhver **lýsing** fyrir *eitthvað*, ***takk og bless***.
