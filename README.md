@@ -1,2 +1,5 @@
 # prufugeymsla
-Einhver lýsing fyrir eitthvað, takk og bless.
+## þetta
+### er
+#### æði
+Einhver **lýsing** fyrir *eitthvað*, **takk og bless**.
